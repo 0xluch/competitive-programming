@@ -12,6 +12,6 @@ Solutions to problems from UVa Online Judge, Codeforces, and *Programming Challe
 
 | Problem | Judge | Difficulty | Status | Notes | Solution |
 |---|---|---|---|---| --- |
-| 100 - The 3n + 1 Problem | UVa | Easy | ✅ | Skiena ch.2, EOF input handling | [solution.cpp](uva/100-3n-plus-1/solution.cpp) |
+| 100 - The 3n + 1 Problem | UVa | Easy | ✅ | Skiena ch.2, EOF input handling | [solution.cpp](uva/100-3n+1/solution.cpp) |
 | 10189 - Minesweeper | UVa | Easy | ✅ | Skiena ch.2, Direction arrays | ](uva/10189-minesweeper/solution.cpp) |
 
