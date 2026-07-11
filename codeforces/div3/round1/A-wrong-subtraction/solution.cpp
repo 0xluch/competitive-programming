@@ -11,7 +11,7 @@ int main(){
         if(n%10 == 0){
             n = n/10;
         } else{
-            n--;
+            n--;$
         }
     }
     cout << n;
