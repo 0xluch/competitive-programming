@@ -13,4 +13,5 @@ Solutions to problems from UVa Online Judge, Codeforces, and *Programming Challe
 | 100 - The 3n + 1 Problem | UVa | Easy | ✅ | Skiena ch.2, EOF input handling | [solution.cpp](uva/100-3n+1/solution.cpp) |
 | 10189 - Minesweeper | UVa | Easy | ✅ | Skiena ch.2, Direction arrays | [solution.cpp](uva/10189-minesweeper/solution.cpp) |
 | Wrong Subtraction | CodeForces | Easy (800) | ✅ | ... | [solution.cpp](codeforces/div3/round1/A-wrong-subtraction/solution.cpp) |
-| Two-Gram | CodeForces | Easy (900) | ✅ | Used maps | [solution.cpp](codeforces/div3/round1/B-two-gram/solution.cpp)
+| Two-Gram | CodeForces | Easy (900) | ✅ | Used maps | [solution.cpp](codeforces/div3/round1/B-two-gram/solution.cpp) |
+| Less or Equal | CodeForces | Easy (1200) | ✅ | Sorted the table then Boo | [solution.cpp](codeforces/div3/round1/C-less-or-equal/solution.cpp) |
